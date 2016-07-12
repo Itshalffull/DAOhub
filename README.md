@@ -1,2 +1,0 @@
-# DAOhub
-DAOhub landing page
